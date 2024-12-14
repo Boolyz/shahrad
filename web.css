@@ -1,6 +1,6 @@
 
 body {
-    height: 100vh;
+    height: 200vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,6 +10,7 @@ body {
 
 .centered-box {
     display: flex;
+    margin-top: 100px;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
